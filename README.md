@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/J-ratio/J-ratio/output/snake.svg" alt="Snake animation" />
-
-###
